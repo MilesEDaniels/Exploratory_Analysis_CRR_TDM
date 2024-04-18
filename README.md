@@ -24,13 +24,8 @@ Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated
 ## Below are time series for CCR and TDM. These are values that are adjusted for hatchery or age.
 ![plot](CRR_TDM_Raw_Hatchery_Age_Adjusted.png)
 
-## What if we adjust for hatchery influence and use age data to better constrain for the actual number of the populaiton that experiecned TDM for a given year. 
+Another way to look at this data, however, is shown below where the time series of CRR is plotted, but each year is color coded by TDM. Looking at the data this way seems to show that the year with a significant amount of TDM often have a CRR of < 1. 
 
-The eqaution to calculate the adjusted CRR is:  $$\frac{(E_i-(H_i\times{H3_i}))\times{N3_i}}{(E_{i-3}-(H_{i-3}\times{H3_{i-3}}))\times{N3_{i-3}}}$$
-
-Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated run, _H3_ is the percent of age 3 hatchery origin, and _N3_ is the percent of age 3 or more natural origin fish. Note that while all hatchery fish are aged to year, natural are only classified as 2 year or 3 and older.
-
-Adjusting for hatchery and age results in the updated plots that are shown below and are in similar format to the plots above.
 
 ## Below is a time series of CRR color coded by TDM after adjusting for hatchery and age.
 ![plot](CRR_Time_TDM_Coded_Hatchery_Age_Adjusted.png)
