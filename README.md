@@ -9,8 +9,7 @@ _Note 1: recent data provided by USFWS allows for adjustment of hatchery retunrs
 
 _Note 2: models have only undergone preliminary diagnostics to look for clear miss-specificaiton._
 
-To start we can plot raw data. We have TDM and CRR from 2001-2022. Assume that the average age of returning adults is 3 years. This means that to see the relationship between CRR and TDM for the first year of available data we would take the population of adults in 1993 and divide by the populaiton in 1990 to get the CRR. We would then take the TDM estimated in 1990 and apply this to the 1993 CRR.
-
+To start we can plot raw data. We have TDM and CRR from 2001-2022. Assume that the average age of returning adults is 3 years.
 The eqaution to calculate the  CRR is:  $$\frac{E_i}{E_{i-3}}$$
 
 Where _E_ is the total estimated run for year _i_.
