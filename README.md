@@ -40,3 +40,6 @@ Another way to look at this data is in a binary form, where we convert the CRR d
 
 ## Below is a plot of the logistic model after adjusting for hatchery and age.
 ![plot](Logistic_Model_Hatchery_Age_Adjusted.png)
+
+
+# Add some conclusions, caveates, and disclaimers
