@@ -29,10 +29,12 @@ Another way to look at this data, however, is shown below where the time series 
 ## Below is a time series of CRR color coded by TDM after adjusting for hatchery and age.
 ![plot](CRR_Time_TDM_Coded_Hatchery_Age_Adjusted.png)
 
-We can also explore if there is a linear relationship between CRR and TDM. We can add the model fit, 95% CI, and R<sup>2</sup>. Overall, there is a significant negative slope for the relationship indicating that as TDM increases the CRR decreases, but the R<sup>2</sup> is very low and so not capturiung much of the variation in the data. This is probably expected as there are other factors affecting CRR and strong linear relationship is probably unlikely. Also, most of the variaiton in CRR occures when TDM is very low. Also note that since both quanities use carcass survey data, there are not independent and spurious relationships can occur. 
+We can also explore if there is a linear relationship between CRR and TDM. We can add the model fit, 95% CI, and R<sup>2</sup>. 
 
 ## Below is a plot of the linear model after adjusting for hatchery and age.
 ![plot](Linear_Model_Hatchery_Age_Adjusted.png)
+
+The fit results in a a significant negative slope for the relationship indicating that as TDM increases the CRR decreases, but the R<sup>2</sup> is very low and so not capturiung much of the variation in the data. This is probably expected as there are other factors affecting CRR and strong linear relationship is probably unlikely. Also, most of the variaiton in CRR occures when TDM is very low. Also note that since both quanities use carcass survey data, there are not independent and spurious relationships can occur. 
 
 Another way to look at this data, however, is shown below where the time series of CRR is plotted, but each year is color coded by TDM. Looking at the data this way seems to show that the year with a significant amount of TDM often have a CRR of < 1. 
 
