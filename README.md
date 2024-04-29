@@ -5,7 +5,7 @@ Last updated 4/29/2024, Miles Daniels (miedanie@ucsc.edu)
 
 _Simulations last ran with R version 4.3.2 (2023-10-31) -- "Eye Holes"_
 
-_Note 1: recent data provided by USFWS allows for adjustment of hatchery retunrs and age of returning fish goes from 2001 to 2022. We are estimating the relationship from 1996-2022 asumming minimal hatchery influence prior to 2001_
+_Note 1: recent data provided by USFWS allows for adjustment of hatchery retunrs and age of returning fish goes from 2001 to 2022. We are estimating the relationship from 1996-2022 assuming minimal hatchery influence prior to 2001_
 
 _Note 2: models have only undergone preliminary diagnostics to look for clear miss-specificaiton._
 
