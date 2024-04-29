@@ -16,7 +16,7 @@ Where _E_ is the total estimated run for year _i_.
 
 We can also adjust for hatchery influence and use age data to better constrain for the actual number of the populaiton that experiecned TDM for a given year. 
 
-The eqaution to calculate the adjusted CRR is:  $$\frac{(E_i-(H_i\times{H3_i}))\times{N3_i}}{(E_{i-3}-(H_{i-3}\times{H3_{i-3}}))\times{N3_{i-3}}}$$
+The eqaution to calculate the adjusted CRR is:  $$\frac{(E_i-(H_i))\times{N3_i}}{(E_{i-3}-(H_{i-3}\))\times{N3_{i-3}}}$$
 
 Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated run, _H3_ is the percent of age 3 hatchery origin, and _N3_ is the percent of age 3 or more natural origin fish. Note that while all hatchery fish are aged to year, natural are only classified as 2 year or 3 and older.
 
