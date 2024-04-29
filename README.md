@@ -23,7 +23,7 @@ Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated
 ## Below are time series for CCR and TDM. These are values adjusted for hatchery and age.
 ![plot](CRR_TDM_Raw_Hatchery_Age_Adjusted.png)
 
-Another way to look at this data, however, is shown below where the time series of CRR is plotted, but each year is color coded by TDM. Looking at the data this way seems to show that the year with a significant amount of TDM often have a CRR of < 1. 
+Another way to look at this data, however, is shown below where the time series of CRR is plotted, but each year is color coded by brood year TDM. Looking at the data this way seems to show that brood years with a significant amount of TDM often have a CRR of < 1. 
 
 
 ## Below is a time series of CRR color coded by TDM after adjusting for hatchery and age.
