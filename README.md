@@ -33,15 +33,17 @@ Another way to look at this data, however, is shown below where the time series 
 
 We can also explore if there is a linear relationship between CRR and TDM. We can add the model fit, 95% CI, and R<sup>2</sup>. 
 
-## Below is a plot of the linear model after adjusting for hatchery and age.
-![plot](Linear_Model_Hatchery_Age_Adjusted.png)
+## Below is a plot of the linear model after adjusting for hatchery and age (normal and log scale).
+![plot](Linear_Model_Hatchery_Age_Adjusted_CRR_4_19_24.png)
+
+![plot](Linear_Model_Hatchery_Age_Adjusted_Log_CRR_4_19_24.png)
 
 The fit results in a a significant negative slope for the relationship indicating that as TDM increases the CRR decreases, but the R<sup>2</sup> is very low and so not capturiung much of the variation in the data. This is probably expected as there are other factors affecting CRR and strong linear relationship is probably unlikely. Also, most of the variaiton in CRR occures when TDM is very low. Also note that since both quanities use carcass survey data, they are not independent and spurious relationships can occur. 
 
 Another way to look at this data is in a binary form, where we convert the CRR data, where a CRR >1 is equal to 1. We can the use logistic regression to look at the relationship. Below is a plot of the logistic regression model. The coefficient for TDM is significant and shows that the odds of having a CRR of <= 1 is greater as TDM increases. However, there are also years where TDM was low and CRR was < 1, indicating that other factors not included in this model are responsible for low adult returns. We could try adding some of those factors into the model (such as ocean survival) to see if it improves the model. 
 
 ## Below is a plot of the logistic model after adjusting for hatchery and age.
-![plot](Logistic_Model_Hatchery_Age_Adjusted.png)
+![plot](Logistic_Model_Hatchery_Age_Adjusted_4_19_24.png)
 
 
 # Add some conclusions, caveates, and disclaimers
