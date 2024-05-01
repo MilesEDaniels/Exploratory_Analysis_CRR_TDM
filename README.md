@@ -26,9 +26,7 @@ Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated
 Another way to look at this data, however, is shown below where the time series of CRR is plotted, but each year is color coded by brood year TDM. Looking at the data this way seems to show that brood years with a significant amount of TDM often have a CRR of < 1. This relationship is even more apparent when looking at CRR on the log scale.
 
 ## Below is a time series of CRR color coded by TDM.
-![plot](CRR_Time_TDM_Coded_Hatchery_Age_Adjusted_4_19_24.png)
-
-![plot](CRR_Time_TDM_Coded_Hatchery_Age_Adjusted_Log_4_19_24.png)
+![plot](TDM_Color_Coded_CRR_5_1_24.png)
 
 We can also explore if there is a linear relationship between CRR and TDM. We can add the model fit, 95% CI, and R<sup>2</sup>. 
 
