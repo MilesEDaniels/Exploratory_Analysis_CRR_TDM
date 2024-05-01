@@ -21,7 +21,7 @@ The eqaution to calculate the adjusted CRR is:  $$\frac{E_i-H_i}{E_{i-3}}$$
 Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated run
 
 ## Below are time series for CCR and TDM. These are values adjusted for hatchery and age.
-![plot](CRR_TDM_Raw_Hatchery_Age_Adjusted.png)
+![plot](Raw_CRR_and_TDM_5_1_24.png)
 
 Another way to look at this data, however, is shown below where the time series of CRR is plotted, but each year is color coded by brood year TDM. Looking at the data this way seems to show that brood years with a significant amount of TDM often have a CRR of < 1. This relationship is even more apparent when looking at CRR on the log scale.
 
