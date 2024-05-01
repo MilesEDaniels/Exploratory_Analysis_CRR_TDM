@@ -34,13 +34,7 @@ We can also explore if there is a linear relationship between CRR and TDM. We ca
 ![plot](Linear_Model_CRR_TDM_5_1_24.png)
 
 
-The fits result in a negative slope for the relationship (P < 0.05 for the log CRR fit, P = .17 for non log CRR) indicating that as TDM increases the CRR decreases, but the R<sup>2</sup> is very low for the non-logged fit and so not capturiung much of the variation in the data. This is probably expected as there are other factors affecting CRR and a strong linear relationship is probably unlikely. Also, most of the variaiton in CRR occures when TDM is very low. Also note that since both quanities use carcass survey data, they are not independent and spurious relationships can occur. 
-
-Another way to look at this data is in a binary form, where we convert the CRR data, where a CRR >1 is equal to 1. We can the use logistic regression to look at the relationship. Below is a plot of the logistic regression model. The coefficient for TDM is significant and shows that the odds of having a CRR of <= 1 is greater as TDM increases. More specifically, the best fit line idicates that the probability of having a CRR > 1 is esentially zero when TDM is ~50%, although the CI are very wide. 
-
-## Below is a plot of the logistic model after adjusting for hatchery and age.
-![plot](Logistic_Model_Hatchery_Age_Adjusted_4_19_24.png)
-
+The fits result in a negative slope for the relationship (P < 0.05 for the log CRR fit) indicating that as TDM increases, CRR decreases. Note that since both quanities use carcass survey data, they are not independent and spurious relationships can occur. 
 
 There are also years where TDM was low and CRR was < 1, indicating that other factors not included in this model are responsible for low adult returns. Other factors realted to this realtionship can be input into the model (such as ocean survival) to see if it improves the fit. 
 
