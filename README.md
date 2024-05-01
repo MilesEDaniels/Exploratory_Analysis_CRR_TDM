@@ -30,10 +30,9 @@ Another way to look at this data, however, is shown below where the time series 
 
 We can also explore if there is a linear relationship between CRR and TDM. We can add the model fit, 95% CI, and R<sup>2</sup>. 
 
-## Below is a plot of the linear model after adjusting for hatchery and age (normal and log scale).
-![plot](Linear_Model_Hatchery_Age_Adjusted_CRR_4_19_24.png)
+## Below is a plot of the linear model with log CRR as the response and TDM as the predictor.
+![plot](Linear_Model_CRR_TDM_5_1_24.png)
 
-![plot](Linear_Model_Hatchery_Age_Adjusted_Log_CRR_4_19_24.png)
 
 The fits result in a negative slope for the relationship (P < 0.05 for the log CRR fit, P = .17 for non log CRR) indicating that as TDM increases the CRR decreases, but the R<sup>2</sup> is very low for the non-logged fit and so not capturiung much of the variation in the data. This is probably expected as there are other factors affecting CRR and a strong linear relationship is probably unlikely. Also, most of the variaiton in CRR occures when TDM is very low. Also note that since both quanities use carcass survey data, they are not independent and spurious relationships can occur. 
 
