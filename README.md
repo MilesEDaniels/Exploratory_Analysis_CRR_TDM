@@ -41,6 +41,6 @@ Overall, the linear model describing the relationship between TDM and log CRR ca
 
 However, there are years where TDM was low and CRR was < 1, indicating that other factors not included in this model are responsible for low adult returns. For example, in 2006 TDM was estimated to be zero, but CRR was well below 1. This year happened to predicted as a very poor ocean entry suruval year (Vasbinder et al, 2024; https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/fog.12654) and lends support that other factors realted to this realtionship should be explored.
 
-We also made simplying assumtions about CRR, such as not using fully reconstructed cohorts, not adjusting for ocean harvery, and pre-spawn mortality among other things. 
+We also made simplifying assumptions about CRR, such as not using fully reconstructed cohorts, not adjusting for ocean harvest, and pre-spawn mortality among other things. 
 
 Lastly, this work is currenly exploratory in nature and should be interpreted as such.
