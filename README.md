@@ -31,11 +31,6 @@ We can also explore if there is a linear relationship between log CRR and TDM. B
 
 The fits result in a negative slope for the relationship (_P_ < 0.05) indicating that as TDM increases, CRR decreases. _Note that since both quanities use carcass survey data, they are not independent and spurious relationships can occur._ 
 
-We can also run this same anaysis on CRR that are  not logged. 
-![plot](Linear_Model_CRR_TDM_5_2_24.png)
-
-The fits result in a negative slope for the relationship (_P_ < 0.05) indicating that as TDM increases, CRR decreases. _Note that as expected the Rn<sup>2</sup> or percent variation in the non-logged model is lower._ 
-
 # Conclusions, caveates, and future work 
 
 Overall, the linear model describing the relationship between TDM and log CRR captures 45% of the variaiton in the response variable and suggestes a strong negative association, such that increased TDM reduces CRR.
