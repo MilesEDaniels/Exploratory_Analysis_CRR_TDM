@@ -16,7 +16,7 @@ Where _E_ is the total estimated run for year _i_.
 
 We can then adjust for hatchery influence to constrain the estimate to the populaiton that experiecned TDM for a given year as hatchery raised salmon are assumed to not experiecne TDM.
 
-The eqaution to calculate the adjusted CRR is:  $$\frac{E_i-H_i}{E_{i-3}}$$
+The equation to calculate the adjusted CRR is:  $$\frac{E_i-H_i}{E_{i-3}}$$
 
 Where _E_ is the total estimated run for year _i_, _H_ is the hatchery estimated run.
 
